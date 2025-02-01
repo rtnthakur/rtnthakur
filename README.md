@@ -67,8 +67,8 @@
 
 ## 📫 Connect With Me
 
-🌐 [GitHub]([https://github.com/your-github](https://github.com/rtnthakur))  
-💼 [LinkedIn]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/ratnesh-kumar-rats/))  
+🌐 [GitHub](https://github.com/rtnthakur)  
+💼 [LinkedIn](https://www.linkedin.com/in/ratnesh-kumar-rats/)  
 ✉️ [Email](mailto:your-ratanthakur740@gmail.com)
 
 ---
