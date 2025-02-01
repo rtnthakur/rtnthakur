@@ -69,7 +69,7 @@
 
 🌐 [GitHub](https://github.com/rtnthakur)  
 💼 [LinkedIn](https://www.linkedin.com/in/ratnesh-kumar-rats/)  
-✉️ [Email](mailto:your-ratanthakur740@gmail.com)
+
 
 ---
 
