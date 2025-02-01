@@ -38,6 +38,7 @@
 
 | **Certificate**                                                      | **Organization**           | **Link**                                                                                   |
 |----------------------------------------------------------------------|----------------------------|--------------------------------------------------------------------------------------------|
+| eLearnSecurity Junior Penetration Tester (eJPT)                       | INE                        | [View Certificate](https://certs.ine.com/62943d0f-3778-44ed-86f2-86a653124562#acc.N1B4wdvX) |
 | Certified Ethical Hacker (CEH_V11)                                    | EC-Council                 | [View Certificate](https://media.licdn.com/dms/image/C4D22AQG819nag-22fQ/feedshare-shrink_2048_1536/0/1668748187386?e=1722470400&v=beta&t=IYy0verLWkIBuwG561NppiII7n03LAbvWKcNTxkppjE) |
 | Network Defense Essentials                                            | EC-Council                 | [View Certificate](https://eccommonstorage.blob.core.windows.net/codered/certificates/cddeb02b-02ef-429d-80af-aa56e34321f2.png) |
 | EC-Council Certified                                                  | EC-Council                 | [View Certificate](https://media-exp1.licdn.com/dms/image/C4D22AQHrjYCOX0NqKQ/feedshare-shrink_800/0/1664986671731?e=1668038400&v=beta&t=bpLZ5ZDmY46pQiR7z2-DrpyvAGSqZrmgYg8RWaOKaX4) |
