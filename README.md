@@ -77,10 +77,22 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
-![Rtnthakur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rtnthakur&show_icons=true&theme=radical)
+<div align="center" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=rtnthakur&show_icons=true&theme=radical" width="50%">
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rtnthakur&layout=compact&theme=radical)
+<div align="center" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtnthakur&layout=compact&theme=radical" width="50%">
+</div>
+
+---
+
+## 🌟 Contributions
+
+Here's a snapshot of my recent GitHub activity:
+
+![Rtnthakur's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rtnthakur&theme=github-compact)
 
 ---
