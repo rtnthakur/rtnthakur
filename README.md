@@ -74,3 +74,13 @@
 ---
 
 🚀 *Securing the digital world, one network at a time!*
+
+---
+
+### 📈 GitHub Stats
+
+![Rtnthakur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rtnthakur&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rtnthakur&layout=compact&theme=radical)
+
+---
