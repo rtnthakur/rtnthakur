@@ -88,7 +88,6 @@
 </div>
 
 ---
-<div style="width:100%;height:0;padding-bottom:18%;position:relative;"><iframe src="https://giphy.com/embed/eY1cJTWCuTC7l7IjtP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hackersec-hs-hack-hacking-hacker-eY1cJTWCuTC7l7IjtP">via GIPHY</a></p>
 
 ## 🌟 Contributions
 
