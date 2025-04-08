@@ -54,7 +54,7 @@
 ## 💼 Professional Experience
 
 🔹 Working at **Terra System Labs Pvt. Ltd.** ([terrasystemlabs.com](https://terrasystemlabs.com/))  
-🔹 Collaborating with cybersecurity professionals like **[Madhuredra Kumar](https://github.com/m14r41)** **Chandrabhushan Kumar** and **[Terra System Labs Pvt. Ltd.](https://www.linkedin.com/in/s-kumar-tsl/)** 
+🔹 Collaborating with cybersecurity professionals like **[Madhuredra Kumar](https://github.com/m14r41)** **[Chandrabhushan Kumar](https://github.com/0xBhushan)** and **[Terra System Labs Pvt. Ltd.](https://www.linkedin.com/in/s-kumar-tsl/)** 
 
 ---
 
