@@ -96,5 +96,4 @@ Here's a snapshot of my recent GitHub activity:
 
 ![Rtnthakur's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rtnthakur&theme=github-compact)
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="developer animation"/>
 ---
