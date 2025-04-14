@@ -14,7 +14,7 @@
 **Cybersecurity Professional | Web Developer | Ethical Hacker**
 
 🔹 I am passionate about learning and working in cybersecurity with a problem-solving mindset. I am a self-motivated graduate with a Bachelor of Computer Applications.  
-🔹 I have completed **CEH v11** and **eJPT** and participated in **Capture The Flag (CTF)** competitions on platforms like **TryHackMe (THM)**, **Hack The Box (HTB)**, and others to gain in-depth knowledge about cybersecurity.  
+🔹 I have completed **CEH v11** and **eJPT** and participated in **Capture The Flag (CTF)** competitions on platforms like **TryHackMe (THM)**, **Hack The Box (HTB)**,  others to gain in-depth knowledge about cybersecurity.  
 
 ---
 
