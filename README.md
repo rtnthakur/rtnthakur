@@ -78,7 +78,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stat
 
 <div align="center" width="50%">
   <img src="https://github-readme-stats.vercel.app/api?username=rtnthakur&show_icons=true&theme=radical" width="50%">
