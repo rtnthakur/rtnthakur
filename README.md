@@ -77,7 +77,7 @@ Cybersecurity is more than a career for me — it’s a passion. As rtnthakur, I
 ## 📫 Connect With Me
 
 🌐 [GitHub](https://github.com/rtnthakur)  
-💼 [LinkedIn](https://www.linkedin.com/in/ratnesh-kumar-rats/)  
+💼 [LinkedIn](https://www.linkedin.com/in/rtnthakur/)  
 
 
 ---
