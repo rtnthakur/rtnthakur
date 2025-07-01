@@ -16,7 +16,7 @@
 About. Hi, I’m Ratnesh Kumar (also known as rtnthakur) — a cybersecurity professional, web developer, and ethical hacker. I hold a  certifications in Certified Ethical Hacker (CEH) from EC-Council and eJPT from eLearnSecurity.
 I’m currently working as a Cyber Security Analyst, where I’ve been focused on Vulnerability Assessment and Penetration Testing (VAPT) for the past year. My work involves identifying security flaws, testing defenses, and helping organizations stay protected against real-world threats.
 
-Recently, I had the honor of being listed in the Hall of Fame by OLX and Dintero for my contributions to their security programs. I’ve also been credited with 22 CVE IDs for responsibly disclosing critical vulnerabilities.
+Recently, I had the honor of being listed in the Hall of Fame by OLX and Dintero for my contributions to their security programs. I’ve also been credited with 24 CVE IDs for responsibly disclosing critical vulnerabilities.
 
 Cybersecurity is more than a career for me — it’s a passion. As rtnthakur, I’m constantly learning, exploring, and pushing my limits to make the digital world a safer place.  
 
