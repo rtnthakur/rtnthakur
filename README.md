@@ -9,7 +9,7 @@
 ---
 ![GIF Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjk2aWZ6bHliemk4cGUwbTk2YXUzcnhvMG1iM2thYXJrcmdtM3AzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eY1cJTWCuTC7l7IjtP/giphy.gif)
 
-# 👨‍💻 Ratnesh Kumar
+# 👨‍💻 Ratnesh Kuma
 
 **Cybersecurity Professional | Web Developer | Ethical Hacker**
 
